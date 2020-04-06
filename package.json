@@ -1,0 +1,26 @@
+{
+  "name": "search_substr",
+  "version": "1.0.0",
+  "description": "algoritm",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zorg-Moris/search_subStr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zorg-Moris/search_subStr/issues"
+  },
+  "homepage": "https://github.com/Zorg-Moris/search_subStr#readme",
+  "dependencies": {
+    "mocha": "^7.1.1"
+  }
+}
